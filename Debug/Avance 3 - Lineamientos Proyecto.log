@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (Avance 3 - Lineamientos Proyecto.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Avance 3 - Iluminacion.cpp
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Lector de Objetos.h(156,17): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Lector de Objetos.h(158,17): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Lector de Objetos.h(160,17): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Lector de Objetos.h(166,10): warning C4101: 'vEntero': variable local sin referencia
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Lector de Objetos.h(194,7): warning C4101: 'i': variable local sin referencia
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Vista.h(235,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Vista.h(236,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Vista.h(237,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Matrices.h(62,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Iluminacion.h(15,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Iluminacion.h(55,13): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Iluminacion.h(55,36): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Iluminacion.h(55,59): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Iluminacion.h(81,26): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Iluminacion.h(82,26): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Iluminacion.h(83,26): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(18,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(30,16): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(43,17): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(46,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(51,46): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(51,33): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(51,20): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(86,16): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(99,17): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(107,46): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(107,33): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(107,20): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(128,14): warning C4305: '+=': truncamiento de 'double' a 'float'
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(147,16): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(152,17): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(155,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(145,12): warning C4101: 'cont': variable local sin referencia
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(172,16): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(176,17): warning C4018: '<': no coinciden signed/unsigned
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Avance 3 - Iluminacion.cpp(278,21): warning C4244: 'argumento': conversión de 'GLsizei' a 'float'; posible pérdida de datos
+  Avance 3 - Lineamientos Proyecto.vcxproj -> F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Debug\Avance 3 - Iluminacion.exe

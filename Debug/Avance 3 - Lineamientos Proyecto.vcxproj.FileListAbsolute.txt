@@ -1,0 +1,4 @@
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Lineamientos Proyecto\Debug\Avance 3 - Lineamientos Proyecto.exe
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Lineamientos Proyecto\Debug\Avance 3 - Lineamientos Proyecto.pdb
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Debug\Avance 3 - Iluminacion.exe
+F:\UASLP\UASLP 2020 - II\Graficacion por Computadora\Proyecto Graficacion\Avance 3 - Iluminacion\Debug\Avance 3 - Iluminacion.pdb
